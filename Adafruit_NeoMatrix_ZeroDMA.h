@@ -27,7 +27,8 @@
 
 #include <Adafruit_GFX.h>
 #include <Adafruit_NeoPixel_ZeroDMA.h>
-
+#include <Arduino.h>
+#include <gamma.h>
 // Matrix layout information is passed in the 'matrixType' parameter for
 // each constructor (the parameter immediately following is the LED type
 // from NeoPixel.h).

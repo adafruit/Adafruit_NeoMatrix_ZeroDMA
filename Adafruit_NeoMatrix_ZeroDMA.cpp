@@ -34,8 +34,6 @@
   License along with NeoMatrix.  If not, see
   <http://www.gnu.org/licenses/>.
   -------------------------------------------------------------------------*/
-
-#include "gamma.h"
 #include <Adafruit_NeoMatrix_ZeroDMA.h>
 
 #ifndef _swap_uint16_t
